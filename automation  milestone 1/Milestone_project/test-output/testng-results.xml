@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-02T00:00:45 IST" name="Default suite" finished-at="2026-01-02T00:03:53 IST" duration-ms="187978">
+    <groups>
+    </groups>
+    <test started-at="2026-01-02T00:00:45 IST" name="Default test" finished-at="2026-01-02T00:03:53 IST" duration-ms="187978">
+      <class name="project1.orangehrm.ui.LoginFunctionality">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:00:45 IST" name="browserSetup" finished-at="2026-01-02T00:00:56 IST" duration-ms="10828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:1, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:00:56 IST" name="loginTest" data-provider="loginTestData" finished-at="2026-01-02T00:01:21 IST" duration-ms="25323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:01:21 IST" name="closeBrowser" finished-at="2026-01-02T00:01:21 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:01:21 IST" name="browserSetup" finished-at="2026-01-02T00:01:30 IST" duration-ms="8743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:1, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:01:30 IST" name="loginTest" data-provider="loginTestData" finished-at="2026-01-02T00:01:50 IST" duration-ms="20244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:01:50 IST" name="closeBrowser" finished-at="2026-01-02T00:01:51 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:01:51 IST" name="browserSetup" finished-at="2026-01-02T00:01:58 IST" duration-ms="7739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:1, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:01:58 IST" name="loginTest" data-provider="loginTestData" finished-at="2026-01-02T00:02:21 IST" duration-ms="22584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:02:21 IST" name="closeBrowser" finished-at="2026-01-02T00:02:21 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:02:21 IST" name="browserSetup" finished-at="2026-01-02T00:02:28 IST" duration-ms="7253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:1, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:02:28 IST" name="loginTest" data-provider="loginTestData" finished-at="2026-01-02T00:02:50 IST" duration-ms="21444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:02:50 IST" name="closeBrowser" finished-at="2026-01-02T00:02:50 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:02:50 IST" name="browserSetup" finished-at="2026-01-02T00:02:58 IST" duration-ms="7590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:1, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:02:58 IST" name="loginTest" data-provider="loginTestData" finished-at="2026-01-02T00:03:12 IST" duration-ms="14223" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(@class,'oxd-alert-content-text')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8d0fbb900c1d12516d608e098f92aeb1, findElement {using=xpath, value=//p[contains(@class,'oxd-alert-content-text')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\prawi\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50990}, goog:processID: 32736, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50990/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d0fbb900c1d12516d608e098f92aeb1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(@class,'oxd-alert-content-text')]"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8d0fbb900c1d12516d608e098f92aeb1, findElement {using=xpath, value=//p[contains(@class,'oxd-alert-content-text')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\prawi\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50990}, goog:processID: 32736, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50990/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d0fbb900c1d12516d608e098f92aeb1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at project1.orangehrm.ui.LoginFunctionality.loginTest(LoginFunctionality.java:58)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:03:12 IST" name="closeBrowser" finished-at="2026-01-02T00:03:12 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:03:12 IST" name="browserSetup" finished-at="2026-01-02T00:03:20 IST" duration-ms="8398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="changePassword()[pri:2, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:03:20 IST" name="changePassword" finished-at="2026-01-02T00:03:53 IST" duration-ms="32476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project1.orangehrm.ui.LoginFunctionality@131ef10]" started-at="2026-01-02T00:03:53 IST" name="closeBrowser" finished-at="2026-01-02T00:03:53 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- project1.orangehrm.ui.LoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
